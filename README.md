@@ -115,7 +115,7 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 
 <br/>
 
-### 🟣 Valter.ai — AI-Powered Stock Analysis Platform
+### Valter.ai — AI-Powered Stock Analysis Platform
 
 > Orchestrates real-time financial data pipelines with Anthropic's Claude SDK to deliver context-aware stock analysis, eliminating the latency and hallucination problems of generic LLM wrappers. Integrates TradingView's charting engine for institutional-grade portfolio visualization with sub-second reactivity.
 
@@ -125,11 +125,11 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 ![Anthropic](https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131622?style=flat-square&logo=tradingview&logoColor=white)
 
-🔗 [Repository](#) · 🎬 [Video POC](#)
+🔗 [Repository](https://github.com/Hariharaaa/valtrix) · 🔗[link](https://valterai.vercel.app/)
 
 ---
 
-### 🟢 PrepareView — AI Mock Interview Mobile App
+### PrepareView — AI Mock Interview Mobile App
 
 > Solves the cold-start problem of interview prep by generating adaptive mock sessions powered by Google Gen AI, then scoring responses against the STAR behavioral framework with quantified tone and clarity metrics. Features a custom "Interview Readiness Score" engine backed by a Supabase real-time layer and gamification loops that boosted user retention in testing.
 
@@ -138,11 +138,9 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 ![Google Gen AI](https://img.shields.io/badge/Google_Gen_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-🔗 [Repository](#) · 🎬 [Video POC](#)
-
 ---
 
-### 🔵 Carbon Footprint Predictor — ML Emissions Pipeline
+### Carbon Footprint Predictor — ML Emissions Pipeline
 
 > Benchmarked 6 regression architectures (Linear, Ridge, Lasso, Random Forest, Gradient Boost, XGBoost) against CDP Open Data and World Bank API feeds to identify the highest-signal model for national carbon emission forecasting, achieving R² > 0.75. Ships SHAP-based explainability dashboards via Streamlit so non-technical stakeholders can audit feature importance without touching a notebook.
 
@@ -151,16 +149,11 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 ![SHAP](https://img.shields.io/badge/SHAP-8B5CF6?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-🔗 [Repository](#) · 🎬 [Video POC](#)
+🔗 [Repository](https://github.com/Hariharaaa/CarbonPredictor) · 🔗 [Link](https://carbonpredictor.streamlit.app/)
 
 ---
 
-
-🔗 [Repository](#) · 🎬 [Video POC](#)
-
----
-
-### 🔴 DisasterReliefRail — Stellar Testnet dApp
+### DisasterReliefRail — Stellar Testnet dApp
 
 > Provides a lightweight decentralized interface for Stellar Testnet interactions, solving the friction of manual SDK wiring by abstracting Freighter wallet connection, real-time XLM balance queries, and testnet payment execution into a single workflow. Ships built-in transaction confirmations via Stellar Expert and Friendbot funding hooks — purpose-built for developers validating Stellar integrations without touching mainnet.
 
@@ -169,7 +162,7 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 ![Freighter](https://img.shields.io/badge/Freighter_Wallet-1A1A2E?style=flat-square&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🎬 [Video POC](#)
+🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🎬 [Video](https://drive.google.com/file/d/1OesXyUfTkd8ADd_GOIDWRc4BcUwIrCA6/view?usp=drive_link)
 
 ---
 
@@ -180,6 +173,7 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 | Role | Organization | Impact |
 |:-----|:-------------|:-------|
 | **Founder** | WebReel Studio | Independent freelance digital growth studio — end-to-end web, mobile & branding solutions |
+| **Founder** | Valter.Ai | Built AI-powered stock intelligence platform simplifying investment research and portfolio analytics |
 | **AI Intern** | Skilleareum | Agentic AI workflows & decentralized gamification engines · **↑ 20% engagement** |
 | **Web Development Intern** | Centaur Digital / TANSI | Production web systems & process optimization · **↑ 40% efficiency** |
 
