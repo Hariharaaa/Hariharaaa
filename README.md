@@ -33,9 +33,9 @@
 ## ⚡ Current Status
 
 ```yaml
-Location:  India
-Role:      3rd-Year CSE Undergrad × Freelance Studio Founder
-Studio:    WebReel Studio — Independent Digital Growth Studio
+Location:  Chennai, India
+Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
+Studio:    WebReelStudio Independent Digital Growth Studio
 ```
 
 - 🔭 **Building:** AI-native applications spanning real-time stock analysis, intelligent mock interview systems, and tokenized asset architectures
