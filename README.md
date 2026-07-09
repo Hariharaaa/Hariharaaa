@@ -22,7 +22,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-webreelstudio.vercel.app-6e40c9?style=for-the-badge&logoColor=white)](https://webreelstudio.vercel.app/)
 [![Email](https://img.shields.io/badge/📬_Email-harihara0328@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:harihara0328@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harihara-srinivas-05798b333)
 
 </div>
 
@@ -232,7 +232,7 @@ Studio:    WebReel Studio — Independent Digital Growth Studio
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-webreelstudio.vercel.app-6e40c9?style=for-the-badge&logoColor=white)](https://webreelstudio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-harihara0328-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harihara0328@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harihara-srinivas-05798b333)
 [![GitHub](https://img.shields.io/badge/GitHub-Hariharaaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hariharaaa)
 
 <br/>
