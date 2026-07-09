@@ -155,13 +155,6 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 
 ---
 
-### 🟠 Tokenized Property Marketplace — System Architecture & Web App
-
-> Architects a secure asset tokenization layer over Flask with SQLite-backed state management, handling the full lifecycle of property listing, fractional ownership tracking, authentication, and portfolio reconciliation. Designed with clean separation of concerns to simulate real-world fintech constraints around transaction integrity and audit trails.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 🔗 [Repository](#) · 🎬 [Video POC](#)
 
