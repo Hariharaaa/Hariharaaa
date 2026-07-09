@@ -162,7 +162,7 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 ![Freighter](https://img.shields.io/badge/Freighter_Wallet-1A1A2E?style=flat-square&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🎬 [Video](https://drive.google.com/file/d/1OesXyUfTkd8ADd_GOIDWRc4BcUwIrCA6/view?usp=drive_link)
+🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🌐 [Live Demo](https://disasterreliefrail.vercel.app/) · 🎬 [Demo Video](https://drive.google.com/file/d/1vxW0AD_3SFH6IaoDY0nimgke00JGqnzy/view?usp=drive_link)
 
 ---
 
