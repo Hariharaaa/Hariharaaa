@@ -125,7 +125,7 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 ![Anthropic](https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![TradingView](https://img.shields.io/badge/TradingView-131622?style=flat-square&logo=tradingview&logoColor=white)
 
-🔗 [Repository](https://github.com/Hariharaaa/valtrix) · 🔗[link](https://valterai.vercel.app/)
+🔗 [Repository](https://github.com/Hariharaaa/valtrix) · 🌐 [Live Demo](https://valterai.vercel.app/)
 
 ---
 
@@ -149,7 +149,7 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 ![SHAP](https://img.shields.io/badge/SHAP-8B5CF6?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-🔗 [Repository](https://github.com/Hariharaaa/CarbonPredictor) · 🔗 [Link](https://carbonpredictor.streamlit.app/)
+🔗 [Repository](https://github.com/Hariharaaa/CarbonPredictor) · 🌐 [Live Demo](https://carbonpredictor.streamlit.app/)
 
 ---
 
