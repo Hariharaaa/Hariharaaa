@@ -206,13 +206,11 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hariharaaa&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=6e40c9&amp;icon_color=6e40c9&amp;text_color=c9d1d9&amp;ring_color=6e40c9&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hariharaaa&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=6E40C9&amp;fire=6E40C9&amp;currStreakLabel=6E40C9&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="GitHub Streak" height="180" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Hariharaaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&count_private=true&include_all_commits=true)
 
-<br/><br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hariharaaa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=8B949E)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharaaa&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=6e40c9&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages" height="180" />
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hariharaaa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8)
 
 </div>
 
@@ -222,7 +220,7 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharaaa&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=6e40c9&amp;line=6e40c9&amp;point=c9d1d9&amp;area=true&amp;area_color=6e40c9" alt="Contribution Graph" width="95%" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariharaaa&theme=github-compact&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9)
 
 </div>
 
