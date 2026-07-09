@@ -167,6 +167,19 @@ Studio:    WebReel Studio — Independent Digital Growth Studio
 
 ---
 
+### 🔴 DisasterReliefRail — Stellar Testnet dApp
+
+> Provides a lightweight decentralized interface for Stellar Testnet interactions, solving the friction of manual SDK wiring by abstracting Freighter wallet connection, real-time XLM balance queries, and testnet payment execution into a single workflow. Ships built-in transaction confirmations via Stellar Expert and Friendbot funding hooks — purpose-built for developers validating Stellar integrations without touching mainnet.
+
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=flat-square&logo=stellar&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Freighter](https://img.shields.io/badge/Freighter_Wallet-1A1A2E?style=flat-square&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+
+🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🎬 [Video POC](#)
+
+---
+
 <!-- ░░░░░░░░░░░░░░░░░░░░ EXPERIENCE & CERTS ░░░░░░░░░░░░░░░░░░░░ -->
 
 ## 💼 Experience
