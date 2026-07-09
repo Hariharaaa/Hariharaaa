@@ -12,7 +12,7 @@
 <!-- Suggested: Create a 1200x300 banner at canva.com or figma.com with your name + tagline -->
 <!-- <img src="https://your-banner-url.png" alt="Banner" width="100%" /> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:6e40c9&amp;height=220&amp;section=header&amp;text=Harihara%20Srinivas%20T&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Backend%20Engineering&amp;descSize=18&amp;descAlignY=55&amp;descColor=8b949e&amp;animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:6e40c9&amp;height=220&amp;section=header&amp;text=Harihara%20Srinivas%20T&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26amp%3B%20Backend%20Engineering&amp;descSize=18&amp;descAlignY=55&amp;descColor=8b949e&amp;animation=fadeIn" width="100%" />
 
 <br/>
 
