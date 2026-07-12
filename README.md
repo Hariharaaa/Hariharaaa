@@ -21,7 +21,7 @@
 <br/>
 
 <a href="https://github.com/Hariharaaa">
-  <img src="ascii_animation.svg?v=2" width="600" alt="ASCII Animation of Hariharaaa" />
+  <img src="https://raw.githubusercontent.com/Hariharaaa/Hariharaaa/main/ascii_animation.svg?token=cachebuster2" width="600" alt="ASCII Animation of Hariharaaa" />
 </a>
 
 <br/>
