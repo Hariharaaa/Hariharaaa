@@ -20,6 +20,12 @@
 
 <br/>
 
+<a href="https://github.com/Hariharaaa">
+  <img src="ascii_animation.svg" width="600" alt="ASCII Animation of Hariharaaa" />
+</a>
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-webreelstudio.vercel.app-6e40c9?style=for-the-badge&logoColor=white)](https://webreelstudio.vercel.app/)
 [![Email](https://img.shields.io/badge/📬_Email-harihara0328@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:harihara0328@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harihara-srinivas-05798b333)
@@ -162,7 +168,7 @@ Studio:    WebReelStudio Independent Digital Growth Studio
 ![Freighter](https://img.shields.io/badge/Freighter_Wallet-1A1A2E?style=flat-square&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🌐 [Live Demo](https://disasterreliefrail.vercel.app/) · 🎬 [Demo Video](https://drive.google.com/file/d/1vxW0AD_3SFH6IaoDY0nimgke00JGqnzy/view?usp=drive_link)
+🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🎬 [Video](https://drive.google.com/file/d/1OesXyUfTkd8ADd_GOIDWRc4BcUwIrCA6/view?usp=drive_link)
 
 ---
 

@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 647.5 600" width="100%" height="100%">
+    <style>
+        .ascii {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 12px;
+            fill: #6e40c9;
+            white-space: pre;
+        }
+        @keyframes fadeIn {
+            0% { opacity: 0; transform: translateY(5px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+        .line {
+            opacity: 0;
+            animation: fadeIn 0.4s ease-out forwards;
+        }
+        .line-0 { animation-delay: 0.0s; }
+        .line-1 { animation-delay: 0.05s; }
+        .line-2 { animation-delay: 0.1s; }
+        .line-3 { animation-delay: 0.15000000000000002s; }
+        .line-4 { animation-delay: 0.2s; }
+        .line-5 { animation-delay: 0.25s; }
+        .line-6 { animation-delay: 0.30000000000000004s; }
+        .line-7 { animation-delay: 0.35000000000000003s; }
+        .line-8 { animation-delay: 0.4s; }
+        .line-9 { animation-delay: 0.45s; }
+        .line-10 { animation-delay: 0.5s; }
+        .line-11 { animation-delay: 0.55s; }
+        .line-12 { animation-delay: 0.6000000000000001s; }
+        .line-13 { animation-delay: 0.65s; }
+        .line-14 { animation-delay: 0.7000000000000001s; }
+        .line-15 { animation-delay: 0.75s; }
+        .line-16 { animation-delay: 0.8s; }
+        .line-17 { animation-delay: 0.8500000000000001s; }
+        .line-18 { animation-delay: 0.9s; }
+        .line-19 { animation-delay: 0.9500000000000001s; }
+        .line-20 { animation-delay: 1.0s; }
+        .line-21 { animation-delay: 1.05s; }
+        .line-22 { animation-delay: 1.1s; }
+        .line-23 { animation-delay: 1.1500000000000001s; }
+        .line-24 { animation-delay: 1.2000000000000002s; }
+        .line-25 { animation-delay: 1.25s; }
+        .line-26 { animation-delay: 1.3s; }
+        .line-27 { animation-delay: 1.35s; }
+        .line-28 { animation-delay: 1.4000000000000001s; }
+        .line-29 { animation-delay: 1.4500000000000002s; }
+        .line-30 { animation-delay: 1.5s; }
+        .line-31 { animation-delay: 1.55s; }
+        .line-32 { animation-delay: 1.6s; }
+        .line-33 { animation-delay: 1.6500000000000001s; }
+        .line-34 { animation-delay: 1.7000000000000002s; }
+        .line-35 { animation-delay: 1.75s; }
+        .line-36 { animation-delay: 1.8s; }
+        .line-37 { animation-delay: 1.85s; }
+        .line-38 { animation-delay: 1.9000000000000001s; }
+        .line-39 { animation-delay: 1.9500000000000002s; }
+    </style>
+    <g class="ascii">
+        <text x="20" y="20" class="line line-0">::::::::::::,::::::::::::::::::::::::::::::::,,,,,,,,,,,,,::::::::::::::::::::::</text>
+        <text x="20" y="34" class="line line-1">:::,,,::,,::,,,,,,,,,,,,,,:::::::::::::::::::::::::::::::::::::::::::::::,,,,,,,</text>
+        <text x="20" y="48" class="line line-2">:,,,,:::::::::,:::,,,,,:::::::::::::::::::::::::::::::::::::::::::::::::::::::::</text>
+        <text x="20" y="62" class="line line-3">::::::::::::::::::::::::::::::::::;+????+;;;;;:::::::::;;;;;;;;;;;;;;;;;;;;:::::</text>
+        <text x="20" y="76" class="line line-4">;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::;*%#@@@##S%%%S?+::::::::::::::::::::::::::::::::</text>
+        <text x="20" y="90" class="line line-5">::;;;;;;;;;;;;;:::::::::::::::;?#@@@@@####@#@@#S?;:::::,,,,,,,,,,,,,,,,,,,,,,,,,</text>
+        <text x="20" y="104" class="line line-6">::::::::::::::::::::,,,,,,,,:*S@@@@@@####@##@####S?*,,,,,,,,,,,:::::::::,,,,,,,,</text>
+        <text x="20" y="118" class="line line-7">::::::::,,,,::::::,,,,,,,,,:?@@@@@@@@@@@@###@#S#@#S%::::::::::::::::::::::::,,,,</text>
+        <text x="20" y="132" class="line line-8">::::::::::::::::::::::,,,,,;#@@@@@@@@@@@@@#@@######S*:::::::::::::::::::::::::::</text>
+        <text x="20" y="146" class="line line-9">:::::::::::::::::::::::::::;#@@@@@@@@@@####@@@@#####*:;:::::::::::::::::::::::::</text>
+        <text x="20" y="160" class="line line-10">::::::::::::;;;;;;;;;:::::::+#@@#S#@@#SS#@@##SS@@###;:::::::::::::::::::::::::::</text>
+        <text x="20" y="174" class="line line-11">;;;;;;;;;;;;;;;;;;;;;;;;:::::*@#%SS###S??%SS%+;%#S*;::::::::::::::::::::::::::::</text>
+        <text x="20" y="188" class="line line-12">;;;:;;;;;::::::::::::::::::::?@S%%%%%%%?*+**+:;*S#;:::::::::::::::::::::::::::::</text>
+        <text x="20" y="202" class="line line-13">:::::::::::::::::::::::::::::;#S%%%SSS##S**%?*+*%*::::::::::::::::::::::::::::::</text>
+        <text x="20" y="216" class="line line-14">;;::::::::::::::::::::::::::::*%%%%S#SSS%??S??*++:::::::::::::::::::::::::::::::</text>
+        <text x="20" y="230" class="line line-15">::::::;:::::::::::::::::::::::::;%SSSSS#S%??%?;:::::::::::::::::::::::::::::::::</text>
+        <text x="20" y="244" class="line line-16">;:;;;;;;::;::::::::::::::::::::::?########SSS*::::::::::::::::::::::::::::::;;;;</text>
+        <text x="20" y="258" class="line line-17">::::::::::::::::::::::::::::::;;;%SS##@@@@#S%+:::;;;;;;;;;;;;;+++;++++++++++++++</text>
+        <text x="20" y="272" class="line line-18">;;;;;;;;;;;;;;;;;;;;;;;;;;;;+*S#SSSSSS###S???*;;;;;++++++++++++++;++++++;+++++++</text>
+        <text x="20" y="286" class="line line-19">+++*++++++++++++++++;;;++**?%%%S#SSSSSS##S??*%#S+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+        <text x="20" y="300" class="line line-20">++++++++++;;+;;;;;;;++?%%%%SSSS%##SSSSSSS%%?*:+#S++:;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+        <text x="20" y="314" class="line line-21">++;;;;;;;;;;;;;;;+*??%S%%%%%SSSSS###SSSSSS%%+;*S#?*:;*+;;;;;;;;;;;;;;;;;;;;;;;;;</text>
+        <text x="20" y="328" class="line line-22">;;;;;;;;;;;;;;+*??%%%SS%%S%%%SSSS%SSSSSSS??**?SSS*;::*?+*;:;;;;;;;;;+;+;;;;;;;;;</text>
+        <text x="20" y="342" class="line line-23">++;;;;;;;;;;;+?%%%%%%S%%%SS%%SSSSSS%%???*;;;??%%*;;;:;*+%%;:::;;;;;;;;;;;;;;;;;;</text>
+        <text x="20" y="356" class="line line-24">;;;;;;;;;;;:;??%%S%%%%%%%%%%%%SSSSSS%++***+*****+++;::;+SS+++::::::::::::;:::::;</text>
+        <text x="20" y="370" class="line line-25">:::,,,,:::,,*?%%%SS%%%%%%%%%%%%%%%SSS**?%%%S%%??**++;::+%S**?;;:::::;;;;;;;;;;;;</text>
+        <text x="20" y="384" class="line line-26">::::::::::,:??%%%SS%%%%S%?%%%???%%%%S%?%??%%%%%??+**+::+*?**%%;::;;;;;;;;;;;;;;;</text>
+        <text x="20" y="398" class="line line-27">;;;;;;;;;;:;?%%%%%SS%%SS%?%%??**?%%%%S???????%???*??*::++++*%S;:;;;;;;;;;;;;;;;;</text>
+        <text x="20" y="412" class="line line-28">;;;;;;;;;;;+?%%%%%%%SS#SS%%%%%+:+??%%%+**++**??**??%?+;;+;+%#?;:;;;;;;;;;;;;;;;;</text>
+        <text x="20" y="426" class="line line-29">;;;;;;;;:::+%%%%SSSSSS#SS%%%%S%++*?%S?**????*??**????*++;+*#S+;:::::::;:::;:::;;</text>
+        <text x="20" y="440" class="line line-30">;;;;;;;;;;:+S%%%%SSSS###S%%SS%%?;:;%S???**%%??%??????*+++*%@?++::::::::::;;:;:::</text>
+        <text x="20" y="454" class="line line-31">;::::::::;;;%S%%S%%SS#@#S%%%%%%%*;:*S?%%%+?%%%%??????**?++%S;*+::::::;;;;;:::,,,</text>
+        <text x="20" y="468" class="line line-32">:::::::::::;?S%%%SS%SS##SS%%%%%%?;:;%**?%???%%%%%?*+**+%%?%++*;:;:::;;;;;:::,,,,</text>
+        <text x="20" y="482" class="line line-33">;;;;;;;;;;:;?%S%%%%S%S##SSS%%%%%?+;;?***?%%??%%%%%?*++*%S%++?*;:+;;;;+;+++;+;;::</text>
+        <text x="20" y="496" class="line line-34">;;;;;;;;;;;;*?SS%%%%%SS##SSSSS%%%*:*?++*???%%%??????*;?SS*+*?+;:++:;;;;;;;::::::</text>
+        <text x="20" y="510" class="line line-35">;;;;;;;;;:::*?%SSS%%%SS##SSSSS%%%?+*?*+***+*?%%%?*+?%*%SS**%*+;:++::::::::::::::</text>
+        <text x="20" y="524" class="line line-36">;;;;::::::::+??%SSS%%%S#@##SSS%%%*?S?*?%%%%????%?*+*%SS#%?%%*+;:*+::::::::;;;;::</text>
+        <text x="20" y="538" class="line line-37">;;;;;;;;;;;:+???%SSSS%S#@###SS%%%?+*%SSSSS####S%SS#####S?%%%*+:;?+:::::::;;;;+;;</text>
+        <text x="20" y="552" class="line line-38">;;;;;;;;;;;;;????%%SSSS#@@##S%%%%%**??%%%%%%%SSSSS%###S%%S%%*+;*+::;;;+++*?*+?*?</text>
+        <text x="20" y="566" class="line line-39">;;;;;;;;;;;::*???%%%%SSS#@#SSS%%%%????????****?%SS%?@@SS#SS%???%*:;**+++*?**+?++</text>
+    </g>
+</svg>
