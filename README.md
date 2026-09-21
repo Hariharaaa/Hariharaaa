@@ -150,7 +150,7 @@ Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
 ![Freighter](https://img.shields.io/badge/Freighter_Wallet-1A1A2E?style=flat-square&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🎬 [Video](https://drive.google.com/file/d/1OesXyUfTkd8ADd_GOIDWRc4BcUwIrCA6/view?usp=drive_link)
+🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🌐 [Live Demo](disasterreliefrail.vercel.app)
 
 ---
 
@@ -159,7 +159,10 @@ Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
 > Screens people for jobs where a lapse in readiness is dangerous — pilots, operators, surgeons. The platform collects intimate data such as reaction time, tremor, speech patterns, and cognitive load, effectively serving as a secure health record.
 
 <!-- TODO: Update with actual tech stack badges for Dusk -->
-![Placeholder](https://img.shields.io/badge/Tech_Stack-000000?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 🔗 [Repository](https://github.com/Hariharaaa/DUSK) 
 
