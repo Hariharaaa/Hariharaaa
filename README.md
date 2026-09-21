@@ -128,17 +128,6 @@ Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
 
 ---
 
-### PrepareView — AI Mock Interview Mobile App
-
-> Solves the cold-start problem of interview prep by generating adaptive mock sessions powered by Google Gen AI, then scoring responses against the STAR behavioral framework with quantified tone and clarity metrics. Features a custom "Interview Readiness Score" engine backed by a Supabase real-time layer and gamification loops that boosted user retention in testing.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Google Gen AI](https://img.shields.io/badge/Google_Gen_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
----
-
 ### Carbon Footprint Predictor — ML Emissions Pipeline
 
 > Benchmarked 6 regression architectures (Linear, Ridge, Lasso, Random Forest, Gradient Boost, XGBoost) against CDP Open Data and World Bank API feeds to identify the highest-signal model for national carbon emission forecasting, achieving R² > 0.75. Ships SHAP-based explainability dashboards via Streamlit so non-technical stakeholders can audit feature importance without touching a notebook.
@@ -162,6 +151,17 @@ Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🎬 [Video](https://drive.google.com/file/d/1OesXyUfTkd8ADd_GOIDWRc4BcUwIrCA6/view?usp=drive_link)
+
+---
+
+### Dusk — Readiness Screening Platform
+
+> Screens people for jobs where a lapse in readiness is dangerous — pilots, operators, surgeons. The platform collects intimate data such as reaction time, tremor, speech patterns, and cognitive load, effectively serving as a secure health record.
+
+<!-- TODO: Update with actual tech stack badges for Dusk -->
+![Placeholder](https://img.shields.io/badge/Tech_Stack-000000?style=flat-square)
+
+🔗 [Repository](https://github.com/Hariharaaa/DUSK) 
 
 ---
 
