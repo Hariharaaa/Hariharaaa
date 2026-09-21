@@ -150,7 +150,7 @@ Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
 ![Freighter](https://img.shields.io/badge/Freighter_Wallet-1A1A2E?style=flat-square&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🌐 [Live Demo](disasterreliefrail.vercel.app)
+🔗 [Repository](https://github.com/Hariharaaa/DisasterReliefRail) · 🌐 [Live Demo](https://disasterreliefrail.vercel.app/)
 
 ---
 
