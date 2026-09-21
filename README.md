@@ -20,12 +20,6 @@
 
 <br/>
 
-<a href="https://github.com/Hariharaaa">
-  <img src="./ascii_animation.svg?v=4" width="600" alt="ASCII Animation of Hariharaaa" />
-</a>
-
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-webreelstudio.vercel.app-6e40c9?style=for-the-badge&logoColor=white)](https://webreelstudio.vercel.app/)
 [![Email](https://img.shields.io/badge/📬_Email-harihara0328@gmail.com-EA4335?style=for-the-badge&logoColor=white)](mailto:harihara0328@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harihara-srinivas-05798b333)
