@@ -202,11 +202,11 @@ Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariharaaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Hariharaaa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hariharaaa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=8B949E)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharaaa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hariharaaa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8)
 
 </div>
 
@@ -216,6 +216,7 @@ Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
 
 <div align="center">
 
+<!-- Note: The official activity graph is currently down. Consider removing this or deploying your own instance. -->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariharaaa&theme=github-compact&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9)
 
 </div>
