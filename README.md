@@ -16,7 +16,7 @@
 
 <br/>
 
-### `Building at the intersection of full-stack systems, mobile frameworks & LLM orchestration`
+### `Building at the intersection of full-stack systems, frameworks & LLM orchestration`
 
 <br/>
 
