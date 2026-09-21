@@ -216,8 +216,11 @@ Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
 
 <div align="center">
 
-<!-- Note: The official activity graph is currently down. Consider removing this or deploying your own instance. -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariharaaa&theme=github-compact&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hariharaaa/Hariharaaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hariharaaa/Hariharaaa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hariharaaa/Hariharaaa/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
