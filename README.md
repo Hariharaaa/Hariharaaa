@@ -168,6 +168,19 @@ Role:      3rd-Year CSE Undergrad × WebreelStudio Founder
 
 ---
 
+### Dropwise — AI Water-Footprint Gateway Sidecar
+
+> Makes AI's water footprint measurable, sourced and controllable: a sidecar for the Bifrost gateway that estimates the water behind every AI request, cuts avoidable waste through model routing, caching and budgets, and uses Tavily to keep every number sourced and current.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+🔗 [Repository](https://github.com/Hariharaaa/Dropwise) · 🌐 [Live Demo](https://dropwise-three.vercel.app/) · 🎥 [Demo Video](https://youtu.be/qcdsdRbtRNA)
+
+---
+
 <!-- ░░░░░░░░░░░░░░░░░░░░ EXPERIENCE & CERTS ░░░░░░░░░░░░░░░░░░░░ -->
 
 ## 💼 Experience
